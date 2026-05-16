@@ -22,8 +22,7 @@
 ### 📊 Dashboard Estratégico
 Acompanhe os principais indicadores de performance (Saldo, Receitas, Despesas) com uma interface visual limpa, moderna e focada em resultados rápidos.
 <div align="center">
-  <img src="assets/screenshots/dashboard%201.png" width="48%" />
-  <img src="assets/screenshots/dashboard%202.png" width="48%" />
+  <img src="assets/screenshots/dashboard.png" width="98%" />
 </div>
 
 <br />
@@ -31,17 +30,16 @@ Acompanhe os principais indicadores de performance (Saldo, Receitas, Despesas) c
 ### 💳 Gestão de Cartões & Contas
 Controle inteligente de múltiplas contas bancárias e faturas de cartão de crédito, com acompanhamento de limites e fechamentos em tempo real.
 <div align="center">
-  <img src="assets/screenshots/cartoes%201.png" width="48%" />
-  <img src="assets/screenshots/cartoes%202.png" width="48%" />
+  <img src="assets/screenshots/cartoes.png" width="48%" />
+  <img src="assets/screenshots/contas.png" width="48%" />
 </div>
 
 <br />
 
-### 🎯 Planejamento de Metas (Caixinhas)
-Expanda seu patrimônio com gestão centralizada de objetivos, permitindo guardar dinheiro para viagens e reservas de emergência de forma visual.
+### 🔄 Fluxo de Caixa Inteligente
+Controle suas entradas e saídas com precisão, com visualização clara de receitas, despesas e saldo final do período.
 <div align="center">
-  <img src="assets/screenshots/metas%201.png" width="48%" />
-  <img src="assets/screenshots/metas%202.png" width="48%" />
+  <img src="assets/screenshots/fluxo-de-caixa.png" width="98%" />
 </div>
 
 ---
