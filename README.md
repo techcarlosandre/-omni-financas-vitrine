@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🚀 Omni Finanças - Inteligência para seu Dinheiro
+<img src="assets/logo-completa.png" width="400" alt="Omni Finanças" />
+
+<br>
 
 **Controle total, inteligência financeira e gestão simplificada em um único lugar.**
 
@@ -20,24 +22,25 @@
 ### 📊 Dashboard Estratégico
 Acompanhe os principais indicadores de performance (Saldo, Receitas, Despesas) com uma interface visual limpa, moderna e focada em resultados rápidos.
 
-*(Adicione a imagem do dashboard aqui - `assets/screenshots/dashboard.png`)*
-<!-- <img src="assets/screenshots/dashboard.png" width="100%"> -->
+<img src="assets/screenshots/dashboard.png" width="100%" alt="Dashboard Estratégico">
 
 <br>
 
 ### 💳 Gestão de Cartões & Contas
 Controle inteligente de múltiplas contas bancárias e faturas de cartão de crédito, com acompanhamento de limites e fechamentos em tempo real.
 
-*(Adicione a imagem de cartões aqui - `assets/screenshots/cartoes.png`)*
-<!-- <img src="assets/screenshots/cartoes.png" width="100%"> -->
+<img src="assets/screenshots/contas.png" width="100%" alt="Gestão de Contas">
+
+<br>
+
+<img src="assets/screenshots/cartoes.png" width="100%" alt="Gestão de Cartões">
 
 <br>
 
 ### 🎯 Planejamento de Metas (Caixinhas)
 Expanda seu patrimônio com gestão centralizada de objetivos, permitindo guardar dinheiro para viagens, reservas de emergência e compras específicas com barra de progresso visual.
 
-*(Adicione a imagem de metas aqui - `assets/screenshots/metas.png`)*
-<!-- <img src="assets/screenshots/metas.png" width="100%"> -->
+<img src="assets/screenshots/metas.png" width="100%" alt="Planejamento de Metas">
 
 <br>
 
